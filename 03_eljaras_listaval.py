@@ -7,3 +7,5 @@ def osszegzo(list):
 
 szamok = [3, 5, 19, 11, 17, 1]
 osszegzo(szamok)
+
+print(sum(szamok))
