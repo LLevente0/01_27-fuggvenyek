@@ -10,7 +10,8 @@ def osszead(x, y):
     return eredmeny
 
 
-osszead(10, 9)
+result = osszead(10, 9)
+print(result)
 osszead(5 + 5, 5 + 4)
 
 a = 10
