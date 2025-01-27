@@ -13,5 +13,5 @@ folytat = True
 while folytat == True:
     szam = int(input("Adj meg egy számot: "))
     szamozas(szam)
-    if szam == " ":
+    if szam == "":
         folytat = False
