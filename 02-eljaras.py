@@ -7,6 +7,7 @@ Az 'x', 'y' és 'eredmeny' nevű változók LOKÁLISAK, csak az eljáráson bel�
 def osszead(x, y):
     eredmeny = x + y
     print('A két szám összege: ', eredmeny)
+    return eredmeny
 
 
 osszead(10, 9)
